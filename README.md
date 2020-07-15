@@ -1,13 +1,17 @@
 ### Vivek Mistry
 
+I am experienced python developer with Javascripts skills as well. I’m currently learning machine learning.
+
 ## projects previously worked on
 
-- [Making APIs work for you](https://github.com/bluecatlabs/making-apis-work-for-you/)
+- [Making APIs work for you](https://github.com/bluecatlabs/making-apis-work-for-you/) - Webinar series I delivered for BlueCat Networks while I worked there.
 
 ## 🔭 I’m currently working on ...
 
-- [GOOGLE DNS REST LooKUP](https://github.com/elephantatech/GoogleDNSLookup)
-- [dcataloger](https://github.com/elephantatech/dcatalog)
+- [GOOGLE DNS REST LooKUP](https://github.com/elephantatech/GoogleDNSLookup) - Simple script to demostrate how to you can use dns.google.com REST api to query dns records.
+- [dcataloger](https://github.com/elephantatech/dcatalog) - Library application built with Django with UI and API. Presently still developing it.
+
+
 
 📫 How to reach me:
 [Twitter](https://twitter.com/elephantatech)
