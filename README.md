@@ -15,8 +15,10 @@ I am experienced python developer with Javascripts skills as well. I’m current
 
 
 📫 How to reach me:
-[Twitter](https://twitter.com/elephantatech)
-[linkedin](https://www.linkedin.com/in/vivekmistry/)
+
+- :baby_chick: [Twitter](https://twitter.com/elephantatech)
+- :office: [linkedin](https://www.linkedin.com/in/vivekmistry/)
+- :elephant: [more about me](https://about.me/vivekmistry)
 <!--
 **elephantatech/elephantatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
