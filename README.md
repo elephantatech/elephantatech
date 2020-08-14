@@ -1,6 +1,6 @@
-### Vivek Mistry
+# Vivek Mistry
 
-I am experienced python developer with Javascripts skills as well. I’m currently learning machine learning and Automation around infrastructure as code.
+I am experienced fullstack python developer with Javascripts skills as well. I’m currently learning machine learning and Automation around infrastructure as code.
 
 ## projects previously worked on
 
