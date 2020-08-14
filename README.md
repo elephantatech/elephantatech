@@ -12,6 +12,7 @@ I am experienced fullstack python developer with Javascripts skills as well. Iâ€
 - [dcataloger](https://github.com/elephantatech/dcatalog) - Library application built with Django with UI and API. Presently still developing it.
 - [django docker boilerplate template](https://github.com/elephantatech/django-docker-template) - Boilerplate template to get started local development with django and postgresSQL on docker.
 
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=elephantatech&show_icons=true" /></p>
 
 
 ðŸ“« How to reach me:
