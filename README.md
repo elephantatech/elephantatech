@@ -1,4 +1,4 @@
-![]("https://github.com/elephantatech/elephantatech/blob/master/IMG_0753.JPG")
+![](https://github.com/elephantatech/elephantatech/blob/master/IMG_0753.JPG)
 
 # Vivek Mistry
 
