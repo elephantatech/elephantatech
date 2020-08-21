@@ -1,5 +1,3 @@
-![](https://github.com/elephantatech/elephantatech/blob/master/IMG_0753.JPG =600X400)
-
 # Vivek Mistry
 
 I am experienced fullstack python developer with Javascripts skills as well. I’m currently learning machine learning and Automation around infrastructure as code.
