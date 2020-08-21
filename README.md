@@ -1,4 +1,4 @@
-![]("https://github.com/elephantatech/elephantatech/blob/master/IMG_0753.JPG" =600X400)
+![](https://github.com/elephantatech/elephantatech/blob/master/IMG_0753.JPG =600X400)
 
 # Vivek Mistry
 
