@@ -1,4 +1,4 @@
-<img src="IMG_0753.JPG" width="600" height="300">
+<img src="IMG_0753.JPG" width="600" height="400">
 # Vivek Mistry
 
 I am experienced fullstack python developer with Javascripts skills as well. I’m currently learning machine learning and Automation around infrastructure as code.
