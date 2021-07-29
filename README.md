@@ -10,6 +10,7 @@ I am experienced fullstack python developer with Javascripts skills as well. I�
 
 ## 🔭 I’m currently working on ...
 
+- [fast-tools](https://github.com/elephantatech/fast-tools) - fastAPI rest service demostrating backend service with database connectivity build with fastapi,sqlalchemy, alembic. This application is to catalog my tools.
 - [Python Google DNS lookup](https://github.com/elephantatech/GoogleDNSLookup) - Simple script to demostrate how to you can use dns.google.com REST api to query dns records.
 - [dcataloger](https://github.com/elephantatech/dcatalog) - Library application built with Django with UI and API. Presently still developing it.
 - [django docker boilerplate template](https://github.com/elephantatech/django-docker-template) - Boilerplate template to get started local development with django and postgresSQL on docker.
