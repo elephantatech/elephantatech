@@ -7,6 +7,7 @@ I am experienced fullstack python developer with Javascripts skills as well. I�
 ## projects previously worked on
 
 - [Making APIs work for you](https://github.com/bluecatlabs/making-apis-work-for-you/) - Webinar series I delivered for BlueCat Networks while I worked there.
+- [ML Learnings](https://github.com/elephantatech/ML_Learnings) - ML Learning I had during great Learning course for MIT Applied Data Science course
 
 ## 🔭 I’m currently working on ...
 
