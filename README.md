@@ -8,6 +8,7 @@ I am experienced fullstack python developer with Javascripts skills as well. I�
 
 - [Making APIs work for you](https://github.com/bluecatlabs/making-apis-work-for-you/) - Webinar series I delivered for BlueCat Networks while I worked there.
 - [ML Learnings](https://github.com/elephantatech/ML_Learnings) - ML Learning I had during great Learning course for MIT Applied Data Science course
+- [Decode url chrome extension](https://github.com/elephantatech/url-decorder-extension) - my chrome extension I use when troubleshooting the url during development on chrome like browsers.
 
 ## 🔭 I’m currently working on ...
 
