@@ -12,6 +12,7 @@ I am experienced fullstack python developer with Javascripts skills as well. I�
 
 ## 🔭 I’m currently working on ...
 
+- [Aiflow ETL](https://github.com/elephantatech/airflow_etls) - Airlfow project for local development and testing ETL pipelien with Docker and docker compose
 - [ticketmaster](https://elephantatech.github.io/ticketmaster/) - fastapi rest api that allows for simple ticket system with redis database
 - [booksapp](https://github.com/elephantatech/bookapp) - flask rest api web app with mysql backend for simple crud app with api
 - [fast-tools](https://github.com/elephantatech/fast-tools) - fastAPI rest service demostrating backend service with database connectivity build with fastapi,sqlalchemy, alembic. This application is to catalog my tools.
