@@ -12,6 +12,7 @@ I am experienced fullstack python developer with Javascripts skills as well. I�
 
 ## 🔭 I’m currently working on ...
 
+- [QR Network Scanner](https://github.com/elephantatech/QR_Network_Scanner/) - Scan QR and add wifi network to your macbook and connect just like you phone
 - [Aiflow ETL](https://github.com/elephantatech/airflow_etls) - Airlfow project for local development and testing ETL pipelien with Docker and docker compose
 - [pyTasky](https://github.com/elephantatech/pyTasky) - Python tkinter desktop app build for pomodor time mangement of tasks with a rudamentary status and reporting features.
 - [ticketmaster](https://elephantatech.github.io/ticketmaster/) - fastapi rest api that allows for simple ticket system with redis database
