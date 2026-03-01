@@ -33,7 +33,6 @@
         <li><b><a href="https://github.com/elephantatech/ML_Learnings">ML Learnings</a></b>: Labs and projects from MIT Applied Data Science.</li>
         <li><b><a href="https://github.com/bluecatlabs/making-apis-work-for-you/">Making APIs Work</a></b>: Webinar series delivered for BlueCat Networks.</li>
       </ul>
-      
       <h3>🌐 Web Apps & APIs</h3>
       <ul>
         <li><b><a href="https://elephantatech.github.io/ticketmaster/">TicketMaster</a></b>: FastAPI & Redis queuing system.</li>
