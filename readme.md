@@ -14,33 +14,43 @@
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/llama.cpp-gray?style=flat" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 </p>
 </div>
 <hr />
 <table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>🌟 Active Projects</h3>
+<h3>🔭 I’m currently working on ...</h3>
+<h4>🤖 ML & AI</h4>
 <ul>
-<li><b><a href="https://github.com/elephantatech/CineStealr">CineStealr</a></b>: Local AI app using LLaVA and YOLO for cinematic scene descriptions.</li>
-<li><b><a href="https://github.com/elephantatech/QR_Network_Scanner">QR Network Scanner</a></b>: WiFi automation for macOS.</li>
-<li><b><a href="https://github.com/elephantatech/airflow_etls">Airflow ETL</a></b>: Docker-compose pipelines for local development.</li>
-<li><b><a href="https://github.com/elephantatech/pyTasky">pyTasky</a></b>: Tkinter Pomodoro management desktop app.</li>
-<li><b><a href="https://github.com/elephantatech/fast-tools">Fast-Tools</a></b>: FastAPI & SQLAlchemy tool catalog.</li>
-<li><b><a href="https://github.com/elephantatech/dcatalog">dCataloger</a></b>: Django-based library application.</li>
+<li><b><a href="https://github.com/elephantatech/CineStealr/">CineStealr</a></b>: Local AI application for generating cinematic scene descriptions.</li>
+</ul>
+<h4>🌐 APIs & Integrations</h4>
+<ul>
+<li><b><a href="https://elephantatech.github.io/ticketmaster/">ticketmaster</a></b>: fastapi rest api with redis database.</li>
+<li><b><a href="https://github.com/elephantatech/bookapp">booksapp</a></b>: flask rest api web app with mysql backend.</li>
+<li><b><a href="https://github.com/elephantatech/fast-tools">fast-tools</a></b>: fastAPI rest service demonstrating backend service.</li>
+<li><b><a href="https://github.com/elephantatech/GoogleDNSLookup">Python Google DNS lookup</a></b>: Simple script for dns.google.com REST api.</li>
+</ul>
+<h4>🛠️ Tools & Automation</h4>
+<ul>
+<li><b><a href="https://github.com/elephantatech/QR_Network_Scanner/">QR Network Scanner</a></b>: Scan QR and add wifi network to your macbook.</li>
+<li><b><a href="https://github.com/elephantatech/airflow_etls">Aiflow ETL</a></b>: Airlfow project for local development and testing.</li>
+<li><b><a href="https://github.com/elephantatech/pyTasky">pyTasky</a></b>: Python tkinter desktop app for pomodoro time management.</li>
+<li><b><a href="https://github.com/elephantatech/bashtoolbox">bashtoolbox</a></b>: Reference bash scripts and linux cheatsheets.</li>
+</ul>
+<h4>📁 Other</h4>
+<ul>
+<li><b><a href="https://github.com/elephantatech/dcatalog">dcataloger</a></b>: Library application built with Django.</li>
+<li><b><a href="https://github.com/elephantatech/django-docker-template">django docker boilerplate</a></b>: Local development with django/postgres.</li>
 </ul>
 </td>
 <td width="50%" valign="top">
-<h3>📚 Previous Projects</h3>
+<h3>📚 Projects previously worked on</h3>
 <ul>
-<li><b><a href="https://github.com/bluecatlabs/making-apis-work-for-you/">Making APIs Work</a></b>: Webinar series for BlueCat Networks.</li>
-<li><b><a href="https://github.com/elephantatech/ML_Learnings">ML Learnings</a></b>: MIT Applied Data Science labs and projects.</li>
-<li><b><a href="https://elephantatech.github.io/ticketmaster/">TicketMaster</a></b>: FastAPI & Redis queuing system.</li>
-<li><b><a href="https://github.com/elephantatech/bookapp">BooksApp</a></b>: Flask & MySQL CRUD application.</li>
-<li><b><a href="https://github.com/elephantatech/url-decorder-extension">Decode URL</a></b>: Chrome troubleshooting extension.</li>
-<li><b><a href="https://github.com/elephantatech/GoogleDNSLookup">Python DNS Lookup</a></b>: Google DNS REST client script.</li>
-<li><b><a href="https://github.com/elephantatech/bashtoolbox">Bash Toolbox</a></b>: Reference scripts and cheatsheets.</li>
+<li><b><a href="https://github.com/bluecatlabs/making-apis-work-for-you/">Making APIs work for you</a></b>: Webinar series delivered for BlueCat Networks.</li>
+<li><b><a href="https://github.com/elephantatech/ML_Learnings">ML Learnings</a></b>: ML Learning during MIT Applied Data Science course.</li>
+<li><b><a href="https://github.com/elephantatech/url-decorder-extension">Decode url chrome extension</a></b>: Chrome extension for troubleshooting URLs.</li>
 </ul>
 </td>
 </tr>
