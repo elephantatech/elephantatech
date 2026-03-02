@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=Vivek%20Mistry&fontSize=65" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=3670A0&center=true&vCenter=true&width=700&height=100&lines=Vivek+Mistry;Full+Stack+Developer;AI+%26+Infrastructure+Explorer" alt="Header SVG" />
 <br />
 <img src="https://github.com/elephantatech/elephantatech/blob/master/IMG_0753.JPG?raw=true" height="250" style="border-radius: 50%; margin: 20px 0;" />
-<h3>🚀 Full-Stack Developer | AI & Infrastructure Explorer</h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Ollama+%26+llama.cpp+Explorer;Full+Stack+Python+Developer;Infrastructure+as+Code+Enthusiast;Building+Automation+Tools" alt="Typing SVG" />
+<h3>🚀 Full-Stack Developer | Python & JavaScript Specialist</h3>
 </div>
 <hr />
 <div align="center">
@@ -58,7 +57,7 @@
 <hr />
 <div align="center">
 <h3>📊 GitHub Activity</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=elephantatech&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=elephantatech&show_icons=true&theme=radical" />
 <br /><br />
 <a href="https://www.linkedin.com/in/vivekmistry/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/elephantatech"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
