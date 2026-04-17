@@ -43,6 +43,7 @@
 <h3>🔭 Currently Working On ...</h3>
 <h4>🤖 ML & AI</h4>
 <ul>
+<li><b><a href="https://github.com/elephantatech/moon_traveler">Moon Traveler Terminal</a></b> 🌙: Text-based survival game on Enceladus with LLM-powered alien conversations, NPC memory, and procedural worlds. <a href="https://elephantatech.github.io/moon_traveler/">Live site</a> | <a href="https://github.com/elephantatech/moon_traveler/releases">Download</a></li>
 <li><b><a href="https://github.com/elephantatech/CineStealr/">CineStealr</a></b> 🎬: Local AI application for generating cinematic scene descriptions.</li>
 </ul>
 <h4>🌐 APIs & Integrations</h4>
